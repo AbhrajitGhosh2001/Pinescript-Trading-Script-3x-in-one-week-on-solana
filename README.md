@@ -1,4 +1,4 @@
-# Pinescript-Trading-Script-3x-in-one-week-on-solana
+# Pinescript-Trading-Script-solana-case-study
 pinescript trading strategy for solana.
 Moving Averages: Calculates two moving averages (MA1 and MA2).
 Stochastic RSI: Computes Stochastic RSI using the input length.
